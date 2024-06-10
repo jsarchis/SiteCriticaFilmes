@@ -1,7 +1,24 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\Estudo\\TrabalhoCamilo\\CriticaFilmes\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{182DE0A9-3A7D-4716-AA83-6B0E96C53D7C}|CriticaApi\\CriticaApi.csproj|d:\\estudo\\trabalhocamilo\\criticafilmes\\criticaapi\\daos\\criticadao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{182DE0A9-3A7D-4716-AA83-6B0E96C53D7C}|CriticaApi\\CriticaApi.csproj|solutionrelative:criticaapi\\daos\\criticadao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{182DE0A9-3A7D-4716-AA83-6B0E96C53D7C}|CriticaApi\\CriticaApi.csproj|d:\\estudo\\trabalhocamilo\\criticafilmes\\criticaapi\\daos\\basedao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{182DE0A9-3A7D-4716-AA83-6B0E96C53D7C}|CriticaApi\\CriticaApi.csproj|solutionrelative:criticaapi\\daos\\basedao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{182DE0A9-3A7D-4716-AA83-6B0E96C53D7C}|CriticaApi\\CriticaApi.csproj|d:\\estudo\\trabalhocamilo\\criticafilmes\\criticaapi\\models\\critica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{182DE0A9-3A7D-4716-AA83-6B0E96C53D7C}|CriticaApi\\CriticaApi.csproj|solutionrelative:criticaapi\\models\\critica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{182DE0A9-3A7D-4716-AA83-6B0E96C53D7C}|CriticaApi\\CriticaApi.csproj|d:\\estudo\\trabalhocamilo\\criticafilmes\\criticaapi\\controllers\\criticacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{182DE0A9-3A7D-4716-AA83-6B0E96C53D7C}|CriticaApi\\CriticaApi.csproj|solutionrelative:criticaapi\\controllers\\criticacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +26,59 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Critica.cs",
+              "DocumentMoniker": "D:\\Estudo\\TrabalhoCamilo\\CriticaFilmes\\CriticaApi\\Models\\Critica.cs",
+              "RelativeDocumentMoniker": "CriticaApi\\Models\\Critica.cs",
+              "ToolTip": "D:\\Estudo\\TrabalhoCamilo\\CriticaFilmes\\CriticaApi\\Models\\Critica.cs",
+              "RelativeToolTip": "CriticaApi\\Models\\Critica.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T00:25:55.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CriticaController.cs",
+              "DocumentMoniker": "D:\\Estudo\\TrabalhoCamilo\\CriticaFilmes\\CriticaApi\\Controllers\\CriticaController.cs",
+              "RelativeDocumentMoniker": "CriticaApi\\Controllers\\CriticaController.cs",
+              "ToolTip": "D:\\Estudo\\TrabalhoCamilo\\CriticaFilmes\\CriticaApi\\Controllers\\CriticaController.cs",
+              "RelativeToolTip": "CriticaApi\\Controllers\\CriticaController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T23:53:11.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CriticaDAO.cs",
+              "DocumentMoniker": "D:\\Estudo\\TrabalhoCamilo\\CriticaFilmes\\CriticaApi\\DAOs\\CriticaDAO.cs",
+              "RelativeDocumentMoniker": "CriticaApi\\DAOs\\CriticaDAO.cs",
+              "ToolTip": "D:\\Estudo\\TrabalhoCamilo\\CriticaFilmes\\CriticaApi\\DAOs\\CriticaDAO.cs",
+              "RelativeToolTip": "CriticaApi\\DAOs\\CriticaDAO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T23:42:21.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BaseDAO.cs",
+              "DocumentMoniker": "D:\\Estudo\\TrabalhoCamilo\\CriticaFilmes\\CriticaApi\\DAOs\\BaseDAO.cs",
+              "RelativeDocumentMoniker": "CriticaApi\\DAOs\\BaseDAO.cs",
+              "ToolTip": "D:\\Estudo\\TrabalhoCamilo\\CriticaFilmes\\CriticaApi\\DAOs\\BaseDAO.cs",
+              "RelativeToolTip": "CriticaApi\\DAOs\\BaseDAO.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAgwHYAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T23:42:19.803Z",
+              "EditorCaption": ""
             }
           ]
         }

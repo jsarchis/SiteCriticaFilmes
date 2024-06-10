@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "zxGCaIbBZNs=",
+  "dgSpecHash": "ZY2H7Qh0Zkw=",
   "success": true,
   "projectFilePath": "D:\\Estudo\\TrabalhoCamilo\\CriticaFilmes\\CriticaFilmes\\CriticaFilmes.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\jmsar\\.nuget\\packages\\dapper\\2.0.90\\dapper.2.0.90.nupkg.sha512",
     "C:\\Users\\jmsar\\.nuget\\packages\\microsoft.aspnetcore.authorization\\8.0.5\\microsoft.aspnetcore.authorization.8.0.5.nupkg.sha512",
     "C:\\Users\\jmsar\\.nuget\\packages\\microsoft.aspnetcore.components\\8.0.5\\microsoft.aspnetcore.components.8.0.5.nupkg.sha512",
     "C:\\Users\\jmsar\\.nuget\\packages\\microsoft.aspnetcore.components.analyzers\\8.0.5\\microsoft.aspnetcore.components.analyzers.8.0.5.nupkg.sha512",
