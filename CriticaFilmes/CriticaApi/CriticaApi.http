@@ -1,4 +1,4 @@
-@CriticaApi_HostAddress = http://localhost:5234
+@CriticaApi_HostAddress = http://localhost:7022
 
 GET {{CriticaApi_HostAddress}}/weatherforecast/
 Accept: application/json

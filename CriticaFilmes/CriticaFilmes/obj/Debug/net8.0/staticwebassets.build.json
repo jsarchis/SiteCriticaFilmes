@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "HEkfao8U3599ZsfdiyVJU2/fSjki2Va42OIkiRgMdmo=",
+  "Hash": "Tg556fWprbDb5J1q59E3aZo8CoIpYD/9DLaQfS4QLC0=",
   "Source": "CriticaFilmes",
   "BasePath": "/",
   "Mode": "Root",
@@ -52,7 +52,7 @@
       "AssetTraitValue": "boot",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\jmsar\\.nuget\\packages\\microsoft.aspnetcore.components.webassembly\\8.0.5\\build\\net8.0\\blazor.webassembly.js"
+      "OriginalItemSpec": "C:\\Users\\jmsar\\.nuget\\packages\\microsoft.aspnetcore.components.webassembly\\8.0.6\\build\\net8.0\\blazor.webassembly.js"
     },
     {
       "Identity": "D:\\Estudo\\TrabalhoCamilo\\CriticaFilmes\\CriticaFilmes\\bin\\Debug\\net8.0\\wwwroot\\_framework\\CriticaFilmes.pdb",
@@ -93,6 +93,25 @@
       "OriginalItemSpec": "D:\\Estudo\\TrabalhoCamilo\\CriticaFilmes\\CriticaFilmes\\obj\\Debug\\net8.0\\webcil\\CriticaFilmes.wasm"
     },
     {
+      "Identity": "D:\\Estudo\\TrabalhoCamilo\\CriticaFilmes\\CriticaFilmes\\bin\\Debug\\net8.0\\wwwroot\\_framework\\Dapper.wasm",
+      "SourceId": "CriticaFilmes",
+      "SourceType": "Computed",
+      "ContentRoot": "D:\\Estudo\\TrabalhoCamilo\\CriticaFilmes\\CriticaFilmes\\bin\\Debug\\net8.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Dapper.wasm",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "WasmResource",
+      "AssetTraitValue": "runtime",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "D:\\Estudo\\TrabalhoCamilo\\CriticaFilmes\\CriticaFilmes\\obj\\Debug\\net8.0\\webcil\\Dapper.wasm"
+    },
+    {
       "Identity": "D:\\Estudo\\TrabalhoCamilo\\CriticaFilmes\\CriticaFilmes\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.js",
       "SourceId": "CriticaFilmes",
       "SourceType": "Computed",
@@ -109,7 +128,7 @@
       "AssetTraitValue": "native",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\jmsar\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.5\\runtimes\\browser-wasm\\native\\dotnet.js"
+      "OriginalItemSpec": "C:\\Users\\jmsar\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.6\\runtimes\\browser-wasm\\native\\dotnet.js"
     },
     {
       "Identity": "D:\\Estudo\\TrabalhoCamilo\\CriticaFilmes\\CriticaFilmes\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.js.map",
@@ -128,15 +147,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\jmsar\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.5\\runtimes\\browser-wasm\\native\\dotnet.js.map"
+      "OriginalItemSpec": "C:\\Users\\jmsar\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.6\\runtimes\\browser-wasm\\native\\dotnet.js.map"
     },
     {
-      "Identity": "D:\\Estudo\\TrabalhoCamilo\\CriticaFilmes\\CriticaFilmes\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.native.8.0.5.fr76l0tf74.js",
+      "Identity": "D:\\Estudo\\TrabalhoCamilo\\CriticaFilmes\\CriticaFilmes\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.native.8.0.6.py2ytn5i0h.js",
       "SourceId": "CriticaFilmes",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Estudo\\TrabalhoCamilo\\CriticaFilmes\\CriticaFilmes\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
-      "RelativePath": "_framework/dotnet.native.8.0.5.fr76l0tf74.js",
+      "RelativePath": "_framework/dotnet.native.8.0.6.py2ytn5i0h.js",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -147,7 +166,7 @@
       "AssetTraitValue": "native",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\jmsar\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.5\\runtimes\\browser-wasm\\native\\dotnet.native.js"
+      "OriginalItemSpec": "C:\\Users\\jmsar\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.6\\runtimes\\browser-wasm\\native\\dotnet.native.js"
     },
     {
       "Identity": "D:\\Estudo\\TrabalhoCamilo\\CriticaFilmes\\CriticaFilmes\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.native.wasm",
@@ -166,15 +185,15 @@
       "AssetTraitValue": "native",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\jmsar\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.5\\runtimes\\browser-wasm\\native\\dotnet.native.wasm"
+      "OriginalItemSpec": "C:\\Users\\jmsar\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.6\\runtimes\\browser-wasm\\native\\dotnet.native.wasm"
     },
     {
-      "Identity": "D:\\Estudo\\TrabalhoCamilo\\CriticaFilmes\\CriticaFilmes\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.runtime.8.0.5.thsa72xnc3.js",
+      "Identity": "D:\\Estudo\\TrabalhoCamilo\\CriticaFilmes\\CriticaFilmes\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.runtime.8.0.6.6xoxkv8hja.js",
       "SourceId": "CriticaFilmes",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Estudo\\TrabalhoCamilo\\CriticaFilmes\\CriticaFilmes\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
-      "RelativePath": "_framework/dotnet.runtime.8.0.5.thsa72xnc3.js",
+      "RelativePath": "_framework/dotnet.runtime.8.0.6.6xoxkv8hja.js",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -185,7 +204,7 @@
       "AssetTraitValue": "native",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\jmsar\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.5\\runtimes\\browser-wasm\\native\\dotnet.runtime.js"
+      "OriginalItemSpec": "C:\\Users\\jmsar\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.6\\runtimes\\browser-wasm\\native\\dotnet.runtime.js"
     },
     {
       "Identity": "D:\\Estudo\\TrabalhoCamilo\\CriticaFilmes\\CriticaFilmes\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.runtime.js.map",
@@ -204,7 +223,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\jmsar\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.5\\runtimes\\browser-wasm\\native\\dotnet.runtime.js.map"
+      "OriginalItemSpec": "C:\\Users\\jmsar\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.6\\runtimes\\browser-wasm\\native\\dotnet.runtime.js.map"
     },
     {
       "Identity": "D:\\Estudo\\TrabalhoCamilo\\CriticaFilmes\\CriticaFilmes\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_CJK.dat",
@@ -223,7 +242,7 @@
       "AssetTraitValue": "native",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\jmsar\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.5\\runtimes\\browser-wasm\\native\\icudt_CJK.dat"
+      "OriginalItemSpec": "C:\\Users\\jmsar\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.6\\runtimes\\browser-wasm\\native\\icudt_CJK.dat"
     },
     {
       "Identity": "D:\\Estudo\\TrabalhoCamilo\\CriticaFilmes\\CriticaFilmes\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_EFIGS.dat",
@@ -242,7 +261,7 @@
       "AssetTraitValue": "native",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\jmsar\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.5\\runtimes\\browser-wasm\\native\\icudt_EFIGS.dat"
+      "OriginalItemSpec": "C:\\Users\\jmsar\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.6\\runtimes\\browser-wasm\\native\\icudt_EFIGS.dat"
     },
     {
       "Identity": "D:\\Estudo\\TrabalhoCamilo\\CriticaFilmes\\CriticaFilmes\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_no_CJK.dat",
@@ -261,7 +280,7 @@
       "AssetTraitValue": "native",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\jmsar\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.5\\runtimes\\browser-wasm\\native\\icudt_no_CJK.dat"
+      "OriginalItemSpec": "C:\\Users\\jmsar\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.6\\runtimes\\browser-wasm\\native\\icudt_no_CJK.dat"
     },
     {
       "Identity": "D:\\Estudo\\TrabalhoCamilo\\CriticaFilmes\\CriticaFilmes\\bin\\Debug\\net8.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Authorization.wasm",
@@ -4406,6 +4425,25 @@
       "OriginalItemSpec": "D:\\Estudo\\TrabalhoCamilo\\CriticaFilmes\\CriticaFilmes\\bin\\Debug\\net8.0\\wwwroot\\_framework\\Microsoft.Extensions.Configuration.Binder.wasm"
     },
     {
+      "Identity": "D:\\Estudo\\TrabalhoCamilo\\CriticaFilmes\\CriticaFilmes\\obj\\Debug\\net8.0\\compressed\\4nx1m2rqon.gz",
+      "SourceId": "CriticaFilmes",
+      "SourceType": "Computed",
+      "ContentRoot": "D:\\Estudo\\TrabalhoCamilo\\CriticaFilmes\\CriticaFilmes\\bin\\Debug\\net8.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Dapper.wasm.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "D:\\Estudo\\TrabalhoCamilo\\CriticaFilmes\\CriticaFilmes\\bin\\Debug\\net8.0\\wwwroot\\_framework\\Dapper.wasm",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "D:\\Estudo\\TrabalhoCamilo\\CriticaFilmes\\CriticaFilmes\\bin\\Debug\\net8.0\\wwwroot\\_framework\\Dapper.wasm"
+    },
+    {
       "Identity": "D:\\Estudo\\TrabalhoCamilo\\CriticaFilmes\\CriticaFilmes\\obj\\Debug\\net8.0\\compressed\\4rs7nzbfh6.gz",
       "SourceId": "CriticaFilmes",
       "SourceType": "Computed",
@@ -4615,23 +4653,23 @@
       "OriginalItemSpec": "D:\\Estudo\\TrabalhoCamilo\\CriticaFilmes\\CriticaFilmes\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Xml.wasm"
     },
     {
-      "Identity": "D:\\Estudo\\TrabalhoCamilo\\CriticaFilmes\\CriticaFilmes\\obj\\Debug\\net8.0\\compressed\\6vkqpdvbaj.gz",
+      "Identity": "D:\\Estudo\\TrabalhoCamilo\\CriticaFilmes\\CriticaFilmes\\obj\\Debug\\net8.0\\compressed\\6xoxkv8hja.gz",
       "SourceId": "CriticaFilmes",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Estudo\\TrabalhoCamilo\\CriticaFilmes\\CriticaFilmes\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
-      "RelativePath": "_framework/icudt_EFIGS.dat.gz",
+      "RelativePath": "_framework/dotnet.runtime.8.0.6.6xoxkv8hja.js.gz",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "D:\\Estudo\\TrabalhoCamilo\\CriticaFilmes\\CriticaFilmes\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_EFIGS.dat",
+      "RelatedAsset": "D:\\Estudo\\TrabalhoCamilo\\CriticaFilmes\\CriticaFilmes\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.runtime.8.0.6.6xoxkv8hja.js",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "D:\\Estudo\\TrabalhoCamilo\\CriticaFilmes\\CriticaFilmes\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_EFIGS.dat"
+      "OriginalItemSpec": "D:\\Estudo\\TrabalhoCamilo\\CriticaFilmes\\CriticaFilmes\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.runtime.8.0.6.6xoxkv8hja.js"
     },
     {
       "Identity": "D:\\Estudo\\TrabalhoCamilo\\CriticaFilmes\\CriticaFilmes\\obj\\Debug\\net8.0\\compressed\\7170318wdz.gz",
@@ -4938,6 +4976,25 @@
       "OriginalItemSpec": "D:\\Estudo\\TrabalhoCamilo\\CriticaFilmes\\CriticaFilmes\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Reflection.TypeExtensions.wasm"
     },
     {
+      "Identity": "D:\\Estudo\\TrabalhoCamilo\\CriticaFilmes\\CriticaFilmes\\obj\\Debug\\net8.0\\compressed\\93yxmtbbi9.gz",
+      "SourceId": "CriticaFilmes",
+      "SourceType": "Computed",
+      "ContentRoot": "D:\\Estudo\\TrabalhoCamilo\\CriticaFilmes\\CriticaFilmes\\bin\\Debug\\net8.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/icudt_no_CJK.dat.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "D:\\Estudo\\TrabalhoCamilo\\CriticaFilmes\\CriticaFilmes\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_no_CJK.dat",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "D:\\Estudo\\TrabalhoCamilo\\CriticaFilmes\\CriticaFilmes\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_no_CJK.dat"
+    },
+    {
       "Identity": "D:\\Estudo\\TrabalhoCamilo\\CriticaFilmes\\CriticaFilmes\\obj\\Debug\\net8.0\\compressed\\96qjj1mu9r.gz",
       "SourceId": "CriticaFilmes",
       "SourceType": "Computed",
@@ -5069,25 +5126,6 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "D:\\Estudo\\TrabalhoCamilo\\CriticaFilmes\\CriticaFilmes\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Configuration.wasm"
-    },
-    {
-      "Identity": "D:\\Estudo\\TrabalhoCamilo\\CriticaFilmes\\CriticaFilmes\\obj\\Debug\\net8.0\\compressed\\al313y17s1.gz",
-      "SourceId": "CriticaFilmes",
-      "SourceType": "Computed",
-      "ContentRoot": "D:\\Estudo\\TrabalhoCamilo\\CriticaFilmes\\CriticaFilmes\\bin\\Debug\\net8.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/dotnet.native.wasm.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "D:\\Estudo\\TrabalhoCamilo\\CriticaFilmes\\CriticaFilmes\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.native.wasm",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "D:\\Estudo\\TrabalhoCamilo\\CriticaFilmes\\CriticaFilmes\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.native.wasm"
     },
     {
       "Identity": "D:\\Estudo\\TrabalhoCamilo\\CriticaFilmes\\CriticaFilmes\\obj\\Debug\\net8.0\\compressed\\amacsl0nw3.gz",
@@ -5356,6 +5394,25 @@
       "OriginalItemSpec": "D:\\Estudo\\TrabalhoCamilo\\CriticaFilmes\\CriticaFilmes\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.IO.FileSystem.Watcher.wasm"
     },
     {
+      "Identity": "D:\\Estudo\\TrabalhoCamilo\\CriticaFilmes\\CriticaFilmes\\obj\\Debug\\net8.0\\compressed\\e1shnjexl8.gz",
+      "SourceId": "CriticaFilmes",
+      "SourceType": "Computed",
+      "ContentRoot": "D:\\Estudo\\TrabalhoCamilo\\CriticaFilmes\\CriticaFilmes\\bin\\Debug\\net8.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/dotnet.js.map.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "D:\\Estudo\\TrabalhoCamilo\\CriticaFilmes\\CriticaFilmes\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.js.map",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "D:\\Estudo\\TrabalhoCamilo\\CriticaFilmes\\CriticaFilmes\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.js.map"
+    },
+    {
       "Identity": "D:\\Estudo\\TrabalhoCamilo\\CriticaFilmes\\CriticaFilmes\\obj\\Debug\\net8.0\\compressed\\e5b3oga4fw.gz",
       "SourceId": "CriticaFilmes",
       "SourceType": "Computed",
@@ -5468,25 +5525,6 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "D:\\Estudo\\TrabalhoCamilo\\CriticaFilmes\\CriticaFilmes\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.ValueTuple.wasm"
-    },
-    {
-      "Identity": "D:\\Estudo\\TrabalhoCamilo\\CriticaFilmes\\CriticaFilmes\\obj\\Debug\\net8.0\\compressed\\fr76l0tf74.gz",
-      "SourceId": "CriticaFilmes",
-      "SourceType": "Computed",
-      "ContentRoot": "D:\\Estudo\\TrabalhoCamilo\\CriticaFilmes\\CriticaFilmes\\bin\\Debug\\net8.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/dotnet.native.8.0.5.fr76l0tf74.js.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "D:\\Estudo\\TrabalhoCamilo\\CriticaFilmes\\CriticaFilmes\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.native.8.0.5.fr76l0tf74.js",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "D:\\Estudo\\TrabalhoCamilo\\CriticaFilmes\\CriticaFilmes\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.native.8.0.5.fr76l0tf74.js"
     },
     {
       "Identity": "D:\\Estudo\\TrabalhoCamilo\\CriticaFilmes\\CriticaFilmes\\obj\\Debug\\net8.0\\compressed\\fsxh5g419l.gz",
@@ -5774,25 +5812,6 @@
       "OriginalItemSpec": "D:\\Estudo\\TrabalhoCamilo\\CriticaFilmes\\CriticaFilmes\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Private.Xml.wasm"
     },
     {
-      "Identity": "D:\\Estudo\\TrabalhoCamilo\\CriticaFilmes\\CriticaFilmes\\obj\\Debug\\net8.0\\compressed\\i3saaiqeqy.gz",
-      "SourceId": "CriticaFilmes",
-      "SourceType": "Computed",
-      "ContentRoot": "D:\\Estudo\\TrabalhoCamilo\\CriticaFilmes\\CriticaFilmes\\bin\\Debug\\net8.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/icudt_no_CJK.dat.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "D:\\Estudo\\TrabalhoCamilo\\CriticaFilmes\\CriticaFilmes\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_no_CJK.dat",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "D:\\Estudo\\TrabalhoCamilo\\CriticaFilmes\\CriticaFilmes\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_no_CJK.dat"
-    },
-    {
       "Identity": "D:\\Estudo\\TrabalhoCamilo\\CriticaFilmes\\CriticaFilmes\\obj\\Debug\\net8.0\\compressed\\icvaix8zk8.gz",
       "SourceId": "CriticaFilmes",
       "SourceType": "Computed",
@@ -5905,6 +5924,25 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "D:\\Estudo\\TrabalhoCamilo\\CriticaFilmes\\CriticaFilmes\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Reflection.Primitives.wasm"
+    },
+    {
+      "Identity": "D:\\Estudo\\TrabalhoCamilo\\CriticaFilmes\\CriticaFilmes\\obj\\Debug\\net8.0\\compressed\\jfqxv4kqy2.gz",
+      "SourceId": "CriticaFilmes",
+      "SourceType": "Computed",
+      "ContentRoot": "D:\\Estudo\\TrabalhoCamilo\\CriticaFilmes\\CriticaFilmes\\bin\\Debug\\net8.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/dotnet.runtime.js.map.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "D:\\Estudo\\TrabalhoCamilo\\CriticaFilmes\\CriticaFilmes\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.runtime.js.map",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "D:\\Estudo\\TrabalhoCamilo\\CriticaFilmes\\CriticaFilmes\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.runtime.js.map"
     },
     {
       "Identity": "D:\\Estudo\\TrabalhoCamilo\\CriticaFilmes\\CriticaFilmes\\obj\\Debug\\net8.0\\compressed\\jg867032k4.gz",
@@ -6192,23 +6230,42 @@
       "OriginalItemSpec": "D:\\Estudo\\TrabalhoCamilo\\CriticaFilmes\\CriticaFilmes\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Runtime.Intrinsics.wasm"
     },
     {
-      "Identity": "D:\\Estudo\\TrabalhoCamilo\\CriticaFilmes\\CriticaFilmes\\obj\\Debug\\net8.0\\compressed\\mr51lvogmy.gz",
+      "Identity": "D:\\Estudo\\TrabalhoCamilo\\CriticaFilmes\\CriticaFilmes\\obj\\Debug\\net8.0\\compressed\\mes8m5kcgl.gz",
       "SourceId": "CriticaFilmes",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Estudo\\TrabalhoCamilo\\CriticaFilmes\\CriticaFilmes\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
-      "RelativePath": "_framework/icudt_CJK.dat.gz",
+      "RelativePath": "_framework/blazor.webassembly.js.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "D:\\Estudo\\TrabalhoCamilo\\CriticaFilmes\\CriticaFilmes\\bin\\Debug\\net8.0\\wwwroot\\_framework\\blazor.webassembly.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "D:\\Estudo\\TrabalhoCamilo\\CriticaFilmes\\CriticaFilmes\\bin\\Debug\\net8.0\\wwwroot\\_framework\\blazor.webassembly.js"
+    },
+    {
+      "Identity": "D:\\Estudo\\TrabalhoCamilo\\CriticaFilmes\\CriticaFilmes\\obj\\Debug\\net8.0\\compressed\\mqykpbwz7g.gz",
+      "SourceId": "CriticaFilmes",
+      "SourceType": "Computed",
+      "ContentRoot": "D:\\Estudo\\TrabalhoCamilo\\CriticaFilmes\\CriticaFilmes\\bin\\Debug\\net8.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/dotnet.native.wasm.gz",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "D:\\Estudo\\TrabalhoCamilo\\CriticaFilmes\\CriticaFilmes\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_CJK.dat",
+      "RelatedAsset": "D:\\Estudo\\TrabalhoCamilo\\CriticaFilmes\\CriticaFilmes\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.native.wasm",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "D:\\Estudo\\TrabalhoCamilo\\CriticaFilmes\\CriticaFilmes\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_CJK.dat"
+      "OriginalItemSpec": "D:\\Estudo\\TrabalhoCamilo\\CriticaFilmes\\CriticaFilmes\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.native.wasm"
     },
     {
       "Identity": "D:\\Estudo\\TrabalhoCamilo\\CriticaFilmes\\CriticaFilmes\\obj\\Debug\\net8.0\\compressed\\mvh7ja9fx3.gz",
@@ -6304,6 +6361,25 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "D:\\Estudo\\TrabalhoCamilo\\CriticaFilmes\\CriticaFilmes\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Linq.wasm"
+    },
+    {
+      "Identity": "D:\\Estudo\\TrabalhoCamilo\\CriticaFilmes\\CriticaFilmes\\obj\\Debug\\net8.0\\compressed\\nbytbmvg41.gz",
+      "SourceId": "CriticaFilmes",
+      "SourceType": "Computed",
+      "ContentRoot": "D:\\Estudo\\TrabalhoCamilo\\CriticaFilmes\\CriticaFilmes\\bin\\Debug\\net8.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/dotnet.js.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "D:\\Estudo\\TrabalhoCamilo\\CriticaFilmes\\CriticaFilmes\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "D:\\Estudo\\TrabalhoCamilo\\CriticaFilmes\\CriticaFilmes\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.js"
     },
     {
       "Identity": "D:\\Estudo\\TrabalhoCamilo\\CriticaFilmes\\CriticaFilmes\\obj\\Debug\\net8.0\\compressed\\nc3c4v5azp.gz",
@@ -6648,6 +6724,25 @@
       "OriginalItemSpec": "D:\\Estudo\\TrabalhoCamilo\\CriticaFilmes\\CriticaFilmes\\bin\\Debug\\net8.0\\wwwroot\\_framework\\Microsoft.Extensions.Configuration.FileExtensions.wasm"
     },
     {
+      "Identity": "D:\\Estudo\\TrabalhoCamilo\\CriticaFilmes\\CriticaFilmes\\obj\\Debug\\net8.0\\compressed\\py2ytn5i0h.gz",
+      "SourceId": "CriticaFilmes",
+      "SourceType": "Computed",
+      "ContentRoot": "D:\\Estudo\\TrabalhoCamilo\\CriticaFilmes\\CriticaFilmes\\bin\\Debug\\net8.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/dotnet.native.8.0.6.py2ytn5i0h.js.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "D:\\Estudo\\TrabalhoCamilo\\CriticaFilmes\\CriticaFilmes\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.native.8.0.6.py2ytn5i0h.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "D:\\Estudo\\TrabalhoCamilo\\CriticaFilmes\\CriticaFilmes\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.native.8.0.6.py2ytn5i0h.js"
+    },
+    {
       "Identity": "D:\\Estudo\\TrabalhoCamilo\\CriticaFilmes\\CriticaFilmes\\obj\\Debug\\net8.0\\compressed\\q57edx75r1.gz",
       "SourceId": "CriticaFilmes",
       "SourceType": "Computed",
@@ -6779,25 +6874,6 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "D:\\Estudo\\TrabalhoCamilo\\CriticaFilmes\\CriticaFilmes\\bin\\Debug\\net8.0\\wwwroot\\_framework\\CriticaFilmes.wasm"
-    },
-    {
-      "Identity": "D:\\Estudo\\TrabalhoCamilo\\CriticaFilmes\\CriticaFilmes\\obj\\Debug\\net8.0\\compressed\\rr89gcpg1l.gz",
-      "SourceId": "CriticaFilmes",
-      "SourceType": "Computed",
-      "ContentRoot": "D:\\Estudo\\TrabalhoCamilo\\CriticaFilmes\\CriticaFilmes\\bin\\Debug\\net8.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/dotnet.runtime.js.map.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "D:\\Estudo\\TrabalhoCamilo\\CriticaFilmes\\CriticaFilmes\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.runtime.js.map",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "D:\\Estudo\\TrabalhoCamilo\\CriticaFilmes\\CriticaFilmes\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.runtime.js.map"
     },
     {
       "Identity": "D:\\Estudo\\TrabalhoCamilo\\CriticaFilmes\\CriticaFilmes\\obj\\Debug\\net8.0\\compressed\\rxu93ttkal.gz",
@@ -7009,6 +7085,25 @@
       "OriginalItemSpec": "D:\\Estudo\\TrabalhoCamilo\\CriticaFilmes\\CriticaFilmes\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Private.Uri.wasm"
     },
     {
+      "Identity": "D:\\Estudo\\TrabalhoCamilo\\CriticaFilmes\\CriticaFilmes\\obj\\Debug\\net8.0\\compressed\\tch8y3hpkr.gz",
+      "SourceId": "CriticaFilmes",
+      "SourceType": "Computed",
+      "ContentRoot": "D:\\Estudo\\TrabalhoCamilo\\CriticaFilmes\\CriticaFilmes\\bin\\Debug\\net8.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/icudt_EFIGS.dat.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "D:\\Estudo\\TrabalhoCamilo\\CriticaFilmes\\CriticaFilmes\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_EFIGS.dat",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "D:\\Estudo\\TrabalhoCamilo\\CriticaFilmes\\CriticaFilmes\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_EFIGS.dat"
+    },
+    {
       "Identity": "D:\\Estudo\\TrabalhoCamilo\\CriticaFilmes\\CriticaFilmes\\obj\\Debug\\net8.0\\compressed\\tfog0bieco.gz",
       "SourceId": "CriticaFilmes",
       "SourceType": "Computed",
@@ -7045,25 +7140,6 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "D:\\Estudo\\TrabalhoCamilo\\CriticaFilmes\\CriticaFilmes\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Net.Sockets.wasm"
-    },
-    {
-      "Identity": "D:\\Estudo\\TrabalhoCamilo\\CriticaFilmes\\CriticaFilmes\\obj\\Debug\\net8.0\\compressed\\thsa72xnc3.gz",
-      "SourceId": "CriticaFilmes",
-      "SourceType": "Computed",
-      "ContentRoot": "D:\\Estudo\\TrabalhoCamilo\\CriticaFilmes\\CriticaFilmes\\bin\\Debug\\net8.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/dotnet.runtime.8.0.5.thsa72xnc3.js.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "D:\\Estudo\\TrabalhoCamilo\\CriticaFilmes\\CriticaFilmes\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.runtime.8.0.5.thsa72xnc3.js",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "D:\\Estudo\\TrabalhoCamilo\\CriticaFilmes\\CriticaFilmes\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.runtime.8.0.5.thsa72xnc3.js"
     },
     {
       "Identity": "D:\\Estudo\\TrabalhoCamilo\\CriticaFilmes\\CriticaFilmes\\obj\\Debug\\net8.0\\compressed\\ts3knqmi9q.gz",
@@ -7332,25 +7408,6 @@
       "OriginalItemSpec": "D:\\Estudo\\TrabalhoCamilo\\CriticaFilmes\\CriticaFilmes\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.IO.FileSystem.wasm"
     },
     {
-      "Identity": "D:\\Estudo\\TrabalhoCamilo\\CriticaFilmes\\CriticaFilmes\\obj\\Debug\\net8.0\\compressed\\vo27rqmhmg.gz",
-      "SourceId": "CriticaFilmes",
-      "SourceType": "Computed",
-      "ContentRoot": "D:\\Estudo\\TrabalhoCamilo\\CriticaFilmes\\CriticaFilmes\\bin\\Debug\\net8.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/blazor.webassembly.js.gz",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "D:\\Estudo\\TrabalhoCamilo\\CriticaFilmes\\CriticaFilmes\\bin\\Debug\\net8.0\\wwwroot\\_framework\\blazor.webassembly.js",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "D:\\Estudo\\TrabalhoCamilo\\CriticaFilmes\\CriticaFilmes\\bin\\Debug\\net8.0\\wwwroot\\_framework\\blazor.webassembly.js"
-    },
-    {
       "Identity": "D:\\Estudo\\TrabalhoCamilo\\CriticaFilmes\\CriticaFilmes\\obj\\Debug\\net8.0\\compressed\\vqsft3hi72.gz",
       "SourceId": "CriticaFilmes",
       "SourceType": "Computed",
@@ -7368,25 +7425,6 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "D:\\Estudo\\TrabalhoCamilo\\CriticaFilmes\\CriticaFilmes\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.ServiceProcess.wasm"
-    },
-    {
-      "Identity": "D:\\Estudo\\TrabalhoCamilo\\CriticaFilmes\\CriticaFilmes\\obj\\Debug\\net8.0\\compressed\\wzjw6us8d8.gz",
-      "SourceId": "CriticaFilmes",
-      "SourceType": "Computed",
-      "ContentRoot": "D:\\Estudo\\TrabalhoCamilo\\CriticaFilmes\\CriticaFilmes\\bin\\Debug\\net8.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/dotnet.js.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "D:\\Estudo\\TrabalhoCamilo\\CriticaFilmes\\CriticaFilmes\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.js",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "D:\\Estudo\\TrabalhoCamilo\\CriticaFilmes\\CriticaFilmes\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.js"
     },
     {
       "Identity": "D:\\Estudo\\TrabalhoCamilo\\CriticaFilmes\\CriticaFilmes\\obj\\Debug\\net8.0\\compressed\\x1b8pccaa2.gz",
@@ -7522,6 +7560,25 @@
       "OriginalItemSpec": "D:\\Estudo\\TrabalhoCamilo\\CriticaFilmes\\CriticaFilmes\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Diagnostics.DiagnosticSource.wasm"
     },
     {
+      "Identity": "D:\\Estudo\\TrabalhoCamilo\\CriticaFilmes\\CriticaFilmes\\obj\\Debug\\net8.0\\compressed\\xlv1z1vtdp.gz",
+      "SourceId": "CriticaFilmes",
+      "SourceType": "Computed",
+      "ContentRoot": "D:\\Estudo\\TrabalhoCamilo\\CriticaFilmes\\CriticaFilmes\\bin\\Debug\\net8.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/icudt_CJK.dat.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "D:\\Estudo\\TrabalhoCamilo\\CriticaFilmes\\CriticaFilmes\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_CJK.dat",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "D:\\Estudo\\TrabalhoCamilo\\CriticaFilmes\\CriticaFilmes\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_CJK.dat"
+    },
+    {
       "Identity": "D:\\Estudo\\TrabalhoCamilo\\CriticaFilmes\\CriticaFilmes\\obj\\Debug\\net8.0\\compressed\\xq83q4r1js.gz",
       "SourceId": "CriticaFilmes",
       "SourceType": "Computed",
@@ -7615,25 +7672,6 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "D:\\Estudo\\TrabalhoCamilo\\CriticaFilmes\\CriticaFilmes\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Security.Cryptography.wasm"
-    },
-    {
-      "Identity": "D:\\Estudo\\TrabalhoCamilo\\CriticaFilmes\\CriticaFilmes\\obj\\Debug\\net8.0\\compressed\\yv4lkn5zdu.gz",
-      "SourceId": "CriticaFilmes",
-      "SourceType": "Computed",
-      "ContentRoot": "D:\\Estudo\\TrabalhoCamilo\\CriticaFilmes\\CriticaFilmes\\bin\\Debug\\net8.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/dotnet.js.map.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "D:\\Estudo\\TrabalhoCamilo\\CriticaFilmes\\CriticaFilmes\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.js.map",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "D:\\Estudo\\TrabalhoCamilo\\CriticaFilmes\\CriticaFilmes\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.js.map"
     },
     {
       "Identity": "D:\\Estudo\\TrabalhoCamilo\\CriticaFilmes\\CriticaFilmes\\obj\\Debug\\net8.0\\compressed\\zaxeivbnkh.gz",

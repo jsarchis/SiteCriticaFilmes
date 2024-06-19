@@ -13,7 +13,7 @@ namespace CriticaApi.DAOs
         public override Mapa[] Mapas => new Mapa[]
         {
             
-            new() { Propriedade = "NameFilme", Campo = "namefilme" },
+            new() { Propriedade = "NameFilme", Campo = "nameFilme" },
             new() { Propriedade = "Analise", Campo = "analise" },
             new() { Propriedade = "Autor", Campo = "autor" },
             new() { Propriedade = "Estrelas", Campo = "estrelas" }

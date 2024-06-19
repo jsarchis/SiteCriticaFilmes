@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CriticaApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+52125db31189901a303d9198f7dc781cfd734ff3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3cf7acfb4724aa44249a53a1cc617119c7f9cd12")]
 [assembly: System.Reflection.AssemblyProductAttribute("CriticaApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CriticaApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
