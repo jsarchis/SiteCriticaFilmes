@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "D:\\Estudo\\TrabalhoCamilo\\CriticaFilmes\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{2D088510-B6FE-4D53-ABF6-10E34D4C9C04}|CriticaFilmes\\CriticaFilmes.csproj|d:\\estudo\\trabalhocamilo\\criticafilmes\\criticafilmes\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2D088510-B6FE-4D53-ABF6-10E34D4C9C04}|CriticaFilmes\\CriticaFilmes.csproj|solutionrelative:criticafilmes\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D088510-B6FE-4D53-ABF6-10E34D4C9C04}|CriticaFilmes\\CriticaFilmes.csproj|d:\\estudo\\trabalhocamilo\\criticafilmes\\criticafilmes\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2D088510-B6FE-4D53-ABF6-10E34D4C9C04}|CriticaFilmes\\CriticaFilmes.csproj|solutionrelative:criticafilmes\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D088510-B6FE-4D53-ABF6-10E34D4C9C04}|CriticaFilmes\\CriticaFilmes.csproj|d:\\estudo\\trabalhocamilo\\criticafilmes\\criticafilmes\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2D088510-B6FE-4D53-ABF6-10E34D4C9C04}|CriticaFilmes\\CriticaFilmes.csproj|solutionrelative:criticafilmes\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{2D088510-B6FE-4D53-ABF6-10E34D4C9C04}|CriticaFilmes\\CriticaFilmes.csproj|d:\\estudo\\trabalhocamilo\\criticafilmes\\criticafilmes\\pages\\criticamanutencao.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{2D088510-B6FE-4D53-ABF6-10E34D4C9C04}|CriticaFilmes\\CriticaFilmes.csproj|solutionrelative:criticafilmes\\pages\\criticamanutencao.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -75,10 +87,6 @@
       "RelativeMoniker": "D:0:0:{182DE0A9-3A7D-4716-AA83-6B0E96C53D7C}|CriticaApi\\CriticaApi.csproj|solutionrelative:criticaapi\\controllers\\criticacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2D088510-B6FE-4D53-ABF6-10E34D4C9C04}|CriticaFilmes\\CriticaFilmes.csproj|d:\\estudo\\trabalhocamilo\\criticafilmes\\criticafilmes\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2D088510-B6FE-4D53-ABF6-10E34D4C9C04}|CriticaFilmes\\CriticaFilmes.csproj|solutionrelative:criticafilmes\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{2D088510-B6FE-4D53-ABF6-10E34D4C9C04}|CriticaFilmes\\CriticaFilmes.csproj|d:\\estudo\\trabalhocamilo\\criticafilmes\\criticafilmes\\models\\modelo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2D088510-B6FE-4D53-ABF6-10E34D4C9C04}|CriticaFilmes\\CriticaFilmes.csproj|solutionrelative:criticafilmes\\models\\modelo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -90,24 +98,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Api.cs",
-              "DocumentMoniker": "D:\\Estudo\\TrabalhoCamilo\\CriticaFilmes\\CriticaFilmes\\Helpers\\Api.cs",
-              "RelativeDocumentMoniker": "CriticaFilmes\\Helpers\\Api.cs",
-              "ToolTip": "D:\\Estudo\\TrabalhoCamilo\\CriticaFilmes\\CriticaFilmes\\Helpers\\Api.cs",
-              "RelativeToolTip": "CriticaFilmes\\Helpers\\Api.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAAAQwBMAAABNAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-18T00:32:49.253Z",
+              "DocumentIndex": 1,
+              "Title": "MainLayout.razor",
+              "DocumentMoniker": "D:\\Estudo\\TrabalhoCamilo\\CriticaFilmes\\CriticaFilmes\\Layout\\MainLayout.razor",
+              "RelativeDocumentMoniker": "CriticaFilmes\\Layout\\MainLayout.razor",
+              "ToolTip": "D:\\Estudo\\TrabalhoCamilo\\CriticaFilmes\\CriticaFilmes\\Layout\\MainLayout.razor",
+              "RelativeToolTip": "CriticaFilmes\\Layout\\MainLayout.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-19T00:58:37.272Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 2,
+              "Title": "Home.razor",
+              "DocumentMoniker": "D:\\Estudo\\TrabalhoCamilo\\CriticaFilmes\\CriticaFilmes\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "CriticaFilmes\\Pages\\Home.razor",
+              "ToolTip": "D:\\Estudo\\TrabalhoCamilo\\CriticaFilmes\\CriticaFilmes\\Pages\\Home.razor",
+              "RelativeToolTip": "CriticaFilmes\\Pages\\Home.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-19T00:34:46.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
               "Title": "CriticaDAO.cs",
               "DocumentMoniker": "D:\\Estudo\\TrabalhoCamilo\\CriticaFilmes\\CriticaApi\\DAOs\\CriticaDAO.cs",
               "RelativeDocumentMoniker": "CriticaApi\\DAOs\\CriticaDAO.cs",
@@ -119,7 +140,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 16,
               "Title": "BaseDAO.cs",
               "DocumentMoniker": "D:\\Estudo\\TrabalhoCamilo\\CriticaFilmes\\CriticaApi\\DAOs\\BaseDAO.cs",
               "RelativeDocumentMoniker": "CriticaApi\\DAOs\\BaseDAO.cs",
@@ -131,20 +152,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "CriticaManutencao.razor",
               "DocumentMoniker": "D:\\Estudo\\TrabalhoCamilo\\CriticaFilmes\\CriticaFilmes\\Pages\\CriticaManutencao.razor",
               "RelativeDocumentMoniker": "CriticaFilmes\\Pages\\CriticaManutencao.razor",
               "ToolTip": "D:\\Estudo\\TrabalhoCamilo\\CriticaFilmes\\CriticaFilmes\\Pages\\CriticaManutencao.razor",
               "RelativeToolTip": "CriticaFilmes\\Pages\\CriticaManutencao.razor",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAAEkAAAAsAAAA",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABIAAABOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-06-18T00:53:24.843Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 15,
               "Title": "Acoes.cs",
               "DocumentMoniker": "D:\\Estudo\\TrabalhoCamilo\\CriticaFilmes\\CriticaFilmes\\Helpers\\Acoes.cs",
               "RelativeDocumentMoniker": "CriticaFilmes\\Helpers\\Acoes.cs",
@@ -156,7 +177,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 13,
               "Title": "CriticaApi.http",
               "DocumentMoniker": "D:\\Estudo\\TrabalhoCamilo\\CriticaFilmes\\CriticaApi\\CriticaApi.http",
               "RelativeDocumentMoniker": "CriticaApi\\CriticaApi.http",
@@ -168,7 +189,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Estudo\\TrabalhoCamilo\\CriticaFilmes\\CriticaApi\\Program.cs",
               "RelativeDocumentMoniker": "CriticaApi\\Program.cs",
@@ -176,12 +197,11 @@
               "RelativeToolTip": "CriticaApi\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-18T01:31:12.024Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-18T01:31:12.024Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\Estudo\\TrabalhoCamilo\\CriticaFilmes\\CriticaApi\\appsettings.json",
               "RelativeDocumentMoniker": "CriticaApi\\appsettings.json",
@@ -193,7 +213,32 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 0,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "D:\\Estudo\\TrabalhoCamilo\\CriticaFilmes\\CriticaFilmes\\Layout\\NavMenu.razor",
+              "RelativeDocumentMoniker": "CriticaFilmes\\Layout\\NavMenu.razor",
+              "ToolTip": "D:\\Estudo\\TrabalhoCamilo\\CriticaFilmes\\CriticaFilmes\\Layout\\NavMenu.razor",
+              "RelativeToolTip": "CriticaFilmes\\Layout\\NavMenu.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-18T01:01:04.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Api.cs",
+              "DocumentMoniker": "D:\\Estudo\\TrabalhoCamilo\\CriticaFilmes\\CriticaFilmes\\Helpers\\Api.cs",
+              "RelativeDocumentMoniker": "CriticaFilmes\\Helpers\\Api.cs",
+              "ToolTip": "D:\\Estudo\\TrabalhoCamilo\\CriticaFilmes\\CriticaFilmes\\Helpers\\Api.cs",
+              "RelativeToolTip": "CriticaFilmes\\Helpers\\Api.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwBMAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T00:32:49.253Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "Critica.cs",
               "DocumentMoniker": "D:\\Estudo\\TrabalhoCamilo\\CriticaFilmes\\CriticaFilmes\\Models\\Critica.cs",
               "RelativeDocumentMoniker": "CriticaFilmes\\Models\\Critica.cs",
@@ -205,7 +250,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "CriticaListar.razor",
               "DocumentMoniker": "D:\\Estudo\\TrabalhoCamilo\\CriticaFilmes\\CriticaFilmes\\Pages\\CriticaListar.razor",
               "RelativeDocumentMoniker": "CriticaFilmes\\Pages\\CriticaListar.razor",
@@ -213,12 +258,11 @@
               "RelativeToolTip": "CriticaFilmes\\Pages\\CriticaListar.razor",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-18T01:07:12.614Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-18T01:07:12.614Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Critica.cs",
               "DocumentMoniker": "D:\\Estudo\\TrabalhoCamilo\\CriticaFilmes\\CriticaApi\\Models\\Critica.cs",
               "RelativeDocumentMoniker": "CriticaApi\\Models\\Critica.cs",
@@ -226,12 +270,11 @@
               "RelativeToolTip": "CriticaApi\\Models\\Critica.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-10T00:25:55.748Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-10T00:25:55.748Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "appsettings.Development.json",
               "DocumentMoniker": "D:\\Estudo\\TrabalhoCamilo\\CriticaFilmes\\CriticaApi\\appsettings.Development.json",
               "RelativeDocumentMoniker": "CriticaApi\\appsettings.Development.json",
@@ -243,7 +286,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Estudo\\TrabalhoCamilo\\CriticaFilmes\\CriticaFilmes\\Program.cs",
               "RelativeDocumentMoniker": "CriticaFilmes\\Program.cs",
@@ -255,7 +298,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 11,
               "Title": "_Imports.razor",
               "DocumentMoniker": "D:\\Estudo\\TrabalhoCamilo\\CriticaFilmes\\CriticaFilmes\\_Imports.razor",
               "RelativeDocumentMoniker": "CriticaFilmes\\_Imports.razor",
@@ -267,7 +310,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 12,
               "Title": "App.razor",
               "DocumentMoniker": "D:\\Estudo\\TrabalhoCamilo\\CriticaFilmes\\CriticaFilmes\\App.razor",
               "RelativeDocumentMoniker": "CriticaFilmes\\App.razor",
@@ -279,7 +322,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 18,
               "Title": "WeatherForecast.cs",
               "DocumentMoniker": "D:\\Estudo\\TrabalhoCamilo\\CriticaFilmes\\CriticaApi\\WeatherForecast.cs",
               "RelativeDocumentMoniker": "CriticaApi\\WeatherForecast.cs",
@@ -291,7 +334,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 19,
               "Title": "IModel.cs",
               "DocumentMoniker": "D:\\Estudo\\TrabalhoCamilo\\CriticaFilmes\\CriticaApi\\Models\\IModel.cs",
               "RelativeDocumentMoniker": "CriticaApi\\Models\\IModel.cs",
@@ -303,7 +346,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 20,
               "Title": "CriticaController.cs",
               "DocumentMoniker": "D:\\Estudo\\TrabalhoCamilo\\CriticaFilmes\\CriticaApi\\Controllers\\CriticaController.cs",
               "RelativeDocumentMoniker": "CriticaApi\\Controllers\\CriticaController.cs",
@@ -315,7 +358,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 21,
               "Title": "Modelo.cs",
               "DocumentMoniker": "D:\\Estudo\\TrabalhoCamilo\\CriticaFilmes\\CriticaFilmes\\Models\\Modelo.cs",
               "RelativeDocumentMoniker": "CriticaFilmes\\Models\\Modelo.cs",
@@ -324,18 +367,6 @@
               "ViewState": "AQIAAAEAAAAAAAAAAAAqwA0AAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-18T00:35:28.177Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "NavMenu.razor",
-              "DocumentMoniker": "D:\\Estudo\\TrabalhoCamilo\\CriticaFilmes\\CriticaFilmes\\Layout\\NavMenu.razor",
-              "RelativeDocumentMoniker": "CriticaFilmes\\Layout\\NavMenu.razor",
-              "ToolTip": "D:\\Estudo\\TrabalhoCamilo\\CriticaFilmes\\CriticaFilmes\\Layout\\NavMenu.razor",
-              "RelativeToolTip": "CriticaFilmes\\Layout\\NavMenu.razor",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAWAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-18T01:01:04.43Z"
             }
           ]
         }

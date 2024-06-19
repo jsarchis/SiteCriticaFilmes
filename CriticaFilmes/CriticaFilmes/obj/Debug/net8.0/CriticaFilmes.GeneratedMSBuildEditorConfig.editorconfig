@@ -26,10 +26,6 @@ build_property._RazorSourceGeneratorDebug =
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Estudo/TrabalhoCamilo/CriticaFilmes/CriticaFilmes/Pages/Counter.razor]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291bnRlci5yYXpvcg==
-build_metadata.AdditionalFiles.CssScope = 
-
 [D:/Estudo/TrabalhoCamilo/CriticaFilmes/CriticaFilmes/Pages/CriticaListar.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ3JpdGljYUxpc3Rhci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
@@ -40,10 +36,6 @@ build_metadata.AdditionalFiles.CssScope =
 
 [D:/Estudo/TrabalhoCamilo/CriticaFilmes/CriticaFilmes/Pages/Home.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSG9tZS5yYXpvcg==
-build_metadata.AdditionalFiles.CssScope = 
-
-[D:/Estudo/TrabalhoCamilo/CriticaFilmes/CriticaFilmes/Pages/Weather.razor]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcV2VhdGhlci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/Estudo/TrabalhoCamilo/CriticaFilmes/CriticaFilmes/_Imports.razor]
