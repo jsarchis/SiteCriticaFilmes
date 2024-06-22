@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "CriticaFilmes",
   "resources": {
-    "hash": "sha256-xcr4N4IpK25AXy3nsellSSdN0c3D/4HGJbiH8yD2cwg=",
+    "hash": "sha256-Uu+zRHZO8cg4jBmo6K8Oc8fkvJUxkWxpxGXMcSJjItk=",
     "jsModuleNative": {
       "dotnet.native.8.0.6.py2ytn5i0h.js": "sha256-YU6M9+jtDVnB8/wtrgIndOstzNh778Ls8g9XnbjorSk="
     },
@@ -209,10 +209,10 @@
       "mscorlib.wasm": "sha256-XvLAB5IyfVSmj5aaGnPwgVFaaZz8jXmbN8WmeopiPBM=",
       "netstandard.wasm": "sha256-TbMssdnuTiKq1gjTPkpgROAuWN0uhvPnagvWR+wAgNs=",
       "System.Private.CoreLib.wasm": "sha256-sscg+Efk8ROPq+q4IVmhShzITuoOYvB8Bsc+Mp9vcSM=",
-      "CriticaFilmes.wasm": "sha256-JnaXvk/R02QZKgB9xAotpa/N+f8lo386oswNh/wDfjk="
+      "CriticaFilmes.wasm": "sha256-1BkKckqs0vGBUwG5fcWHsPeF/PCsOlDuLGjsQl9XsUw="
     },
     "pdb": {
-      "CriticaFilmes.pdb": "sha256-sVKd+/jGA66ci0aSXYX2a6j4w/2+qMyrrYOdXOAr9L4="
+      "CriticaFilmes.pdb": "sha256-cdy7LwJpclkPOnsLyexAoylLxK6n76MySgRhOXeVDnU="
     }
   },
   "cacheBootResources": true,

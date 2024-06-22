@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CriticaFilmes")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f14cd1d01313f71880560bfdcd0fd92b14cec224")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+569a24c30a80757062846a682e356bf95cd6d169")]
 [assembly: System.Reflection.AssemblyProductAttribute("CriticaFilmes")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CriticaFilmes")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

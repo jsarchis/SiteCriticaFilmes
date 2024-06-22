@@ -9,7 +9,7 @@
 
 @if (Objetos == null)
 {
-    <p><strong>Carregando...</strong></p>
+    <p><strong>Sem criticas atualmente...</strong></p>
 }
 else
 {
@@ -33,7 +33,6 @@ else
                     <td>@obj.Autor</td>
                     <td>@obj.Estrelas</td>
                     <td>
-                        <a href=@($"/critica/{Acoes.Consultar}/{obj.Id}") class="btn btn-secondary">Consultar</a>
                         <a href=@($"/critica/{Acoes.Alterar}/{obj.Id}") class="btn btn-warning">Alterar</a>
                         <a href=@($"/critica/{Acoes.Excluir}/{obj.Id}") class="btn btn-danger">Excluir</a>
                     </td>
